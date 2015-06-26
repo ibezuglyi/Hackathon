@@ -1,6 +1,7 @@
 # WebdriverIO
 - Oficjalna strona narzędzia: http://webdriver.io/. Zachęcamy do zapoznania się z dokumentacją do tego narzędzia.
 - WebdriverIO jest oparty o NodeJs, więc najpierw musisz zainstalować NodeJs.
+
 ## Nodejs
 - Pobierz [windows installer](https://nodejs.org/download/).
 - Uruchom installer.
