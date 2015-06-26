@@ -5,3 +5,6 @@
 4. W Solution explorer kliknij prawym na References i z menu wybierz Manage NuGet packages
 5. Wyszukaj online Selenium WebDriver oraz NUnit i zainstaluj
 6. Dodaj [test](../Selenium WebDriver (C%23)/Class1.cs) do projektu 
+7. Zbuilduj swój projekt poprzez kliknięcie w ```Debug -> Build project```
+8. Uruchom program NUnit i otwórz projekt 
+9. Kliknij przycisk Run
