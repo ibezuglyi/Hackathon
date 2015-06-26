@@ -10,7 +10,7 @@
 4. Uruchom IntellIJ, załaduj defaultowe ustawienia i wybierz „New Project”
 5. Wybierz typ projektu Maven, następnie wskaż JDK w Project SDK
 6. Kliknij Next, wpisz GroupId, ArftifactId (tu wyjaśnienie co to jest (https://maven.apache.org/guides/mini/guide-naming-conventions.html) oraz nazwę projektu
-7. W pliku (pom.xml) dodaj (przed </project>).
+7. W pliku [pom.xml](pom.xml) dodaj (przed </project>).
 8. Kliknij prawym na [pom.xml](pom.xml) i wybierz: Maven > Reimport
 9. Kliknij prawym na java w katalogu test i dodaj nową klasę Groovy
 10. I napisz swój pierwszy [test](test.groovy)
