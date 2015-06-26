@@ -1,4 +1,4 @@
-# Hackathon
+# Dev QA Hackathon 
 
 Wszystkie uwagi i sugestie prosimy zgłaszać na naszym czacie
 
