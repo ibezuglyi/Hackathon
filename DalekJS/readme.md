@@ -20,7 +20,7 @@
 
 ```npm install dalekjs --save-dev```
 
-- Napisz test i zapisz od pliku (my_first_test.js)[my_first_test.js]
+- Napisz test i zapisz od pliku [my_first_test.js](my_first_test.js)
 - Uruchom test, w linii poleceń wejdź do katalogu gdzie umieściłeś plik z testem i wywołaj
 
 ```dalek my_first_test.js```
