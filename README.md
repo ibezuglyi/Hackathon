@@ -18,3 +18,5 @@ Wszystkie uwagi, sugestie prosimy zgłaszać na naszym czacie
 ## Instrukcja do [GEBa](Geb/readme.md)
 ## Instrukcja do [WebdriverIO](WebdriverIO/readme.md)
 ## Instrukcja do [DalekJS](DalekJS/readme.md)
+## Instrukcja do [Selenium WebDriver (C#)](Selenium WebDriver (C#)/readme.md)
+## Instrukcja do [Selenium WebDriver (Java)](Selenium WebDriver (Java)/readme.md)
