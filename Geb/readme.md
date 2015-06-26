@@ -15,3 +15,5 @@
 9. Kliknij prawym na java w katalogu test i dodaj nową klasę Groovy
 10. I napisz swój pierwszy [test](test.groovy)
 11. Aby uruchomić test kliknij prawy na test i kliknij Run
+
+Zobacz również przykłady w [HomePage](HomePage.groovy) i [TestWithPage](TestWithPage.groovy)
