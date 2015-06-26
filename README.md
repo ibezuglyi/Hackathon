@@ -5,9 +5,13 @@ Wszystkie uwagi, sugestie prosimy zgłaszać na naszym czacie
 
 
 
+## Aplikacje
+[Aplikacja z bugami](http://demo.mrbuggy2.testarena.pl/zaloguj)
+[Aplikacja do testowania](https://testarena.pgs-soft.com/)
+[Aplikacja do testowania _backup_](http://testarena.pl/demo)
 
-[Applikacja do Testowania](https://testarena.pgs-soft.com/)
+[Lista bugów do pokrycia testami](http://mantis.testarena.pl/view_all_bug_page.php?filter=7636)
 
-# Instrukcja do [GEBa](Geb/readme.md)
-# Instrukcja do [WebdriverIO](WebdriverIO/readme.md)
-# Instrukcja do [DalekJS](DalekJS/readme.md)
+## Instrukcja do [GEBa](Geb/readme.md)
+## Instrukcja do [WebdriverIO](WebdriverIO/readme.md)
+## Instrukcja do [DalekJS](DalekJS/readme.md)
