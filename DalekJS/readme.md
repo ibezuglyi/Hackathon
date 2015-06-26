@@ -7,15 +7,17 @@
 7. Upewnij się, że zmienna środowiskowa PATH zawiera ścieżkę do node. Pamiętaj, że u Ciebie to może być inna ścieżka.
 8. Uruchom wiersz poleceń z uprawnieniami administratora. 
 9. Za pomocą menedżera pakietów zainstaluj dalekJs, uruchom w wierszu poleceń: 
-    _npm install dalek-cli –g_
+    
+```npm install dalek-cli –g```
+
 10. Stwórz katalog, w którym planuesz umieścić test, np. dalek-tests i przejdź do tego katologu.
 11. Zainstaluj DalekJS 
 
-_npm install dalekjs --save-dev_
+```npm install dalekjs --save-dev```
 
 12. Napisz test i zapisz od pliku _my_first_test.js_
 13. Uruchom test, w linii poleceń wejdź do katalogu gdzie umieściłeś plik z testem i wywołaj 
 
-_dalek my_first_test.js_
+```dalek my_first_test.js```
 
   my_first_test to nazwa pliku
