@@ -7,7 +7,9 @@ Wszystkie uwagi, sugestie prosimy zgłaszać na naszym czacie
 
 ## Aplikacje
 [Aplikacja z bugami](http://demo.mrbuggy2.testarena.pl/zaloguj)
+
 [Aplikacja do testowania](https://testarena.pgs-soft.com/)
+
 [Aplikacja do testowania _backup_](http://testarena.pl/demo)
 
 [Lista bugów do pokrycia testami](http://mantis.testarena.pl/view_all_bug_page.php?filter=7636)
