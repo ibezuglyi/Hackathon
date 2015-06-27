@@ -11,13 +11,19 @@ Oficjalny hashtag wydarzenia: [#DevQA](https://twitter.com/hashtag/DevQA?src=has
 [Aplikacja z bugami](http://demo.mrbuggy2.testarena.pl/zaloguj)
 
 [Aplikacja do testowania](https://testarena.pgs-soft.com/)
+
+```
 login: admin@testarena.pl
-password: 12qwAS
+password: 12qwAS 
+```
 
 
 [Aplikacja do testowania _backup_](http://testarena.pl/demo)
+
+```
 Login: administrator@testarena.pl
 Hasło: sumXQQ72$L
+```
 
 [Lista bugów do pokrycia testami](http://mantis.testarena.pl/view_all_bug_page.php?filter=7636)
 
